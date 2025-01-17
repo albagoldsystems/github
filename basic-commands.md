@@ -19,6 +19,10 @@ GitHub is a powerful platform for version control and collaboration. This reposi
   ```bash
   git clone <repository-url>
   ```
+- **Check the status of your repository**:
+  ```bash
+  git status
+  ```
 - **Add all changes to the staging area**:
   ```bash
   git add .
