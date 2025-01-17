@@ -61,4 +61,8 @@ Contributions are welcome! If you have suggestions for additional commands or im
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+Normally all stuff is under MIT License. We can add whatever license we have to.
+
+**_Salman Saeed_**
